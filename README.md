@@ -14,6 +14,10 @@ To add to the list of quotes:
 
 ## The Quotes
 
+> You miss 100% of the shots you don't take.
+
+Wayne Gretzky
+
 > To live is the rarest thing in the world. Most people exist, that is all.
 
 Oscar Wilde
