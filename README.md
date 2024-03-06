@@ -14,6 +14,10 @@ To add to the list of quotes:
 
 ## The Quotes
 
+> Don't be afraid to give up the good to go for the great
+
+John D. Rockefeller
+
 > To live is the rarest thing in the world. Most people exist, that is all.
 
 Oscar Wilde
