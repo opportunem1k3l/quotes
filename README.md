@@ -1,12 +1,12 @@
 # Curated Quote List
 
-## About
+## About 
 
-This is a collection of favorite quotes from members of the infamous Coding Collective. This repository is built for anyone to practice collaborating using git. Add as many quotes as you like!
+This is a collection of favorite quotes from members of the infamous Coding Collective. This repository is built for anyone to practice collaborating using git. Add as many quotes as you like! 
 
 ## Add
-
-To add to the list of quotes:
+ 
+To add to the list of quotes: EDIT
 
 1.  Fork repository to your personal Github repository.
 2.  Add your quote either directly on Github or clone to your computer and make changes
@@ -30,7 +30,7 @@ Bedouin saying
 
 Helen Hunt Jackson
 
----
+--- I
 
 > Fine. Sell out. Get a job. A nice nine to five one. Sit in front of the idiot box all night and watch some stupid sitcom...all the while wondering what it might have been like if you'd hung in there for just one...more...day.
 
