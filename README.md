@@ -18,6 +18,20 @@ To add to the list of quotes:
 
 Wayne Gretzky
 
+---
+
+> All models are wrong, but some are useful.
+
+George Box, statistician
+
+---
+
+> To achieve great things, two things are needed: a plan, and not enough time.
+
+Leonard Bernstein
+
+---
+
 > To live is the rarest thing in the world. Most people exist, that is all.
 
 Oscar Wilde
@@ -478,5 +492,11 @@ Arnold Palme
 > Our problem is not the lack of knowing; it is the lack of doing. Most people know far more than they think they do.
 
 Mark Hatfield
+
+---
+
+> I think this is how you do it.
+
+Dorian Sommerfeld
 
 ---
