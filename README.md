@@ -14,6 +14,12 @@ To add to the list of quotes:
 
 ## The Quotes
 
+> To achieve great things, two things are needed: a plan, and not enough time.
+
+Leonard Bernstein
+
+---
+
 > To live is the rarest thing in the world. Most people exist, that is all.
 
 Oscar Wilde
