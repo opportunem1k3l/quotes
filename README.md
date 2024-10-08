@@ -14,14 +14,23 @@ To add to the list of quotes:
 
 ## The Quotes
 
+> You miss 100% of the shots you don't take.
+
+Wayne Gretzky
+
+---
 
 > All models are wrong, but some are useful.
 
 George Box, statistician
 
+---
+
 > To achieve great things, two things are needed: a plan, and not enough time.
 
 Leonard Bernstein
+
+---
 
 > To live is the rarest thing in the world. Most people exist, that is all.
 
