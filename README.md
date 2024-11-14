@@ -13,7 +13,9 @@ To add to the list of quotes: EDIT
 3.  Create Pull Request.
 
 ## The Quotes
+>To thine own self. Be true
 
+William Shakespeare
 
 > Don't be afraid to give up the good to go for the great
 
